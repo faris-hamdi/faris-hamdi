@@ -1,6 +1,6 @@
 # Faris Hamdi Rizk
 
-![Profile Banner](https://github.com/faris-hamdi/faris-hamdi/blob/main/github-header-image.png)
+![Profile Header](https://github.com/faris-hamdi/faris-hamdi/blob/main/github-header-image.png)
 
 ## About Me
 I am an undergraduate research assistant at the Machine Learning and Metaheuristics Optimization Lab at Delta Higher Institute of Engineering and Technology. My research interests include machine learning, deep learning, computer vision, and optimization.
@@ -26,6 +26,7 @@ My research focuses on applying advanced machine learning techniques, deep learn
 
 ## Contact
 - **Email**: [fareshamdy0000@gmail.com](mailto:fareshamdy0000@gmail.com)
+- **My Website**: [My Website](faris-hamdi.github.io)
 - **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/fares-hamdy0/)
 - **Kaggle**: [Kaggle Profile](https://www.kaggle.com/fareshamdy)
