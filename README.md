@@ -3,7 +3,7 @@
 ![Profile Header](https://github.com/faris-hamdi/faris-hamdi/blob/main/github-header-image.png)
 
 ## About Me
-DHIET EECE S'26
+I am an Junior Undergrad EECE at DHIET.
 I am an undergraduate research assistant. My research interests include machine learning, deep learning, computer vision, and optimization.
 
 ## Research
