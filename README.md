@@ -3,7 +3,8 @@
 ![Profile Header](https://github.com/faris-hamdi/faris-hamdi/blob/main/github-header-image.png)
 
 ## About Me
-I am an undergraduate research assistant at the Machine Learning and Metaheuristics Optimization Lab at Delta Higher Institute of Engineering and Technology. My research interests include machine learning, deep learning, computer vision, and optimization.
+DHIET EECE S'26
+I am an undergraduate research assistant. My research interests include machine learning, deep learning, computer vision, and optimization.
 
 ## Research
 My research focuses on applying advanced machine learning techniques, deep learning, computer vision, and optimization algorithms to solve real-world challenges. I am passionate about developing innovative solutions for problems such as student performance prediction, traffic pattern analysis for smart city development, and enhancing road maintenance and safety.
