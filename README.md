@@ -26,7 +26,7 @@ My research focuses on applying advanced machine learning techniques, deep learn
 
 ## Contact
 - **Email**: [fareshamdy0000@gmail.com](mailto:fareshamdy0000@gmail.com)
-- **My Website**: [My Website](faris-hamdi.github.io)
+- **My Website**: [My Website](https://faris-hamdi.github.io/)
 - **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/fares-hamdy0/)
 - **Kaggle**: [Kaggle Profile](https://www.kaggle.com/fareshamdy)
