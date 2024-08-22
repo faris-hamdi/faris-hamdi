@@ -27,7 +27,7 @@ My research focuses on applying advanced machine learning, optimization algorith
 
 ## Contact
 - **Email**: [fareshamdy0000@gmail.com](mailto:fareshamdy0000@gmail.com)
-- **My CV**: [My CV](https://drive.google.com/file/d/1AWW99l2K2VhIHo5af-0E934BcntH059W/view?usp=sharing)
+- **My CV**: [My CV](https://drive.google.com/file/d/193SQ_qgQafNfhnq3S0GmEggOAFbDjXku/view?usp=sharing)
 - **My Website**: [My Website](https://faris-hamdi.github.io/)
 - **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/fares-hamdy0/)
