@@ -15,7 +15,7 @@ I am an undergraduate student specializing in Electronics and Communication Engi
 - Tools & Version Control: LATEX, Git/GitHub
 
 ## Contact
-- **Email**: [ch2100350@dhiet.edu.eg](mailto:ch2100350@dhiet.edu.eg)
+- **Email**: [Faris.Hamdi.Rizk@outlook.com](mailto:Faris.Hamdi.Rizk@outlook.com)
 - **My CV**: [My CV](https://faris-hamdi.github.io/uploads/resume.pdf)
 - **My Website**: [My Website](https://faris-hamdi.github.io/)
 - **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en)
