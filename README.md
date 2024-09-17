@@ -19,8 +19,6 @@ I am an undergraduate student specializing in Electronics and Communication Engi
 
 ## Contact
 - **Email**: [Faris.Hamdi.Rizk@outlook.com](mailto:Faris.Hamdi.Rizk@outlook.com)
-- **My CV**: [My CV](https://faris-hamdi.github.io/uploads/resume.pdf)
-- **My Website**: [My Website](https://faris-hamdi.github.io/)
 - **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=APspKoIAAAAJ&hl=en)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/fares-hamdy0/)
 - **Kaggle**: [Kaggle Profile](https://www.kaggle.com/fareshamdy)
