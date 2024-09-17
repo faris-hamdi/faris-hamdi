@@ -5,6 +5,9 @@
 ## About Me
 I am an undergraduate student specializing in Electronics and Communication Engineering with a concentration in Machine Learning and Computer Vision at the Delta Higher Institute of Engineering and Technology (DHIET), Egypt. As a research assistant in the Applied Machine Learning Lab, supervised by Prof. El-Sayed M. El-kenawy, I contribute to advanced research projects in computer vision, deep learning, and optimization algorithms. Additionally, I work as a Research Staff member at the Applied Machine Learning (AML) Lab, part of the Zewail City Computing Society (ZCCS) at Zewail City , where I collaborate with a multidisciplinary team to advance the lab’s focus on computer vision, NLP, and machine learning.
 
+- **Email**: [Faris.Hamdi.Rizk@outlook.com](mailto:Faris.Hamdi.Rizk@outlook.com)
+
+
 ## Skills
 - Programming Languages: Python (proficient), C (intermediate), MATLAB (basic)
 - Machine Learning Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn
