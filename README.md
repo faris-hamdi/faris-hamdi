@@ -3,7 +3,15 @@
 ![Profile Header](https://github.com/faris-hamdi/faris-hamdi/blob/main/github-header-image.png)
 
 ## About Me
-I am an undergraduate student specializing in Electronics and Communication Engineering with a concentration in Machine Learning and Computer Vision at the Delta Higher Institute of Engineering and Technology (DHIET), Egypt. As a research assistant in the Applied Machine Learning Lab, supervised by Prof. El-Sayed M. El-kenawy, I contribute to advanced research projects in computer vision, deep learning, and optimization algorithms. Additionally, I work as a Research Staff member at the Applied Machine Learning (AML) Lab, part of the Zewail City Computing Society (ZCCS) at Zewail City , where I collaborate with a multidisciplinary team to advance the lab’s focus on computer vision, NLP, and machine learning.
+Your statement is clear and well-written. Just a tiny tweak for a bit more consistency:
+
+---
+
+I am a junior undergraduate student in Electronics and Communication Engineering at Delta Higher Institute of Engineering and Technology (DHIET) in Egypt, focusing on Machine Learning and Computer Vision. As a research assistant under Prof. [El-Sayed M. El-Kenawy](https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en) at the Computer Science & Intelligent Systems Research Center in Blacksburg, VA, I work on advanced projects in computer vision, deep learning, and optimization algorithms. Additionally, I am a research staff member at the Applied Machine Learning (AML) Lab, part of the Zewail City Computing Society (ZCCS) in [Zewail City](https://zewailcity.edu.eg/), where I contribute to research in computer vision, NLP, and machine learning.
+
+---
+
+This version aligns "research in" with the previous mention of "research on."
 
 - **Email**: [Faris.Hamdi.Rizk@outlook.com](mailto:Faris.Hamdi.Rizk@outlook.com)
 
